@@ -40,4 +40,4 @@ Clock Synchronization: Ensures reliable and predictable operation.
 Flexibility: Can be extended for larger memory sizes by increasing addr and data_in/data_out widths.
 
 # OUTPUT
-
+[TASK 2 RAM DESIGN.docx](https://github.com/user-attachments/files/18356910/TASK.2.RAM.DESIGN.docx)
